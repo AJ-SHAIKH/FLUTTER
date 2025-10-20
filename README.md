@@ -1,33 +1,3 @@
-<div align="center">
-
-# 👋 Welcome to **UI_Flutter** 🎉  
-
-✨ A **playground for Flutter & Dart experiments** — where creativity meets clean UI!  
-
-💡 Crafted with passion by **bnpranavika**, this repo showcases **small but powerful snippets of Flutter magic**.  
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Highlights of this Repo
-- 🎨 **UI Widgets:** Text, Images, Containers & more!  
-- ⚡ **Dart Programs:** Simplified, practical examples  
-- 🛠️ **Mini Projects:** Hands-on snippets to sharpen Flutter skills  
-- 🌈 **Interactive & Clean UI:** For fun and learning  
-
-</div>
-
----
-
-## 🌐 View My Flutter Outputs
-
-### Sample 
-<img width="956" height="242" alt="Screenshot 2025-10-01 185908" src="https://github.com/user-attachments/assets/6285d949-4550-4a1a-97c3-5abdc810c7b3" />
 
 ### Widget Tab
 <img width="954" height="774" alt="image" src="https://github.com/user-attachments/assets/f48a86c6-9ae6-41eb-a2a8-3878dd4f4629" />
@@ -76,32 +46,3 @@
 
 ### API Fetch
 <img width="960" height="730" alt="image" src="https://github.com/user-attachments/assets/7187959b-5193-4f09-9009-d26ecee2403f" />
-
-
----
-
-## 🌟 Why Explore This Repo?
-
-Learning Flutter should be **fun, visual, and practical**!  
-This repo acts as a **handy cookbook of Flutter widgets and experiments** 👩‍💻👨‍💻  
-
-- Learn quickly with **interactive examples**  
-- Visualize outputs instantly **on your local browser**  
-- Sharpen your **Flutter & Dart skills**  
-
----
-
-## 🔗 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-bnpranavika-black?logo=github&style=for-the-badge)](https://github.com/bnpranavika)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bnpranavika-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bnpranavika/)
-
----
-
-<div align="center">
-
-💫 Happy Fluttering! ✨  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />
-
-</div>
